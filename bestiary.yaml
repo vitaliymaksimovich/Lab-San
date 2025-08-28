@@ -1,0 +1,162 @@
+- name: "Леший"magic_shop
+  description: "Гибрид человека и лесного духа, охраняющий древние рощи"
+  dangerLevel: 7
+  habitats:
+    - "чащи Брокилона"
+    - "Эдингель"
+  firstMention: "1234-06-21"
+  immunities:
+    - "магия"
+    - "оглушение"
+    - "яды"
+  activityTime: "ночь"
+  poisonRecipe: "корень мандрагоры (3), пепел драконида (1), эссенция полыни"
+  preparationTime: 60
+  effectiveness: "умеренная"
+  height: 3.0
+  weight: 300
+
+- name: "Полуденница"
+  description: "Призрак, терроризирующий поля во время жатвы"
+  dangerLevel: 5
+  habitats:
+    - "поля Редании"
+    - "амбары Туссента"
+  firstMention: "1198-07-15"
+  immunities:
+    - "кровотечение"
+  activityTime: "день"
+  poisonRecipe: "лепестки лунного цветка (2), серебряная нить (1), экстракт чеснока"
+  preparationTime: 30
+  effectiveness: "высокая"
+  height: 1.7
+  weight: 0
+
+- name: "Катакан"
+  description: "Крылатый демон с хвостом скорпиона"
+  dangerLevel: 9
+  habitats:
+    - "горные пещеры Туссента"
+  firstMention: "1150-04-12"
+  immunities:
+    - "огонь"
+    - "яды"
+  activityTime: "сумерки"
+  poisonRecipe: "жало мантикоры (4), нефритовая пыль (2), спирт Альберихта"
+  preparationTime: 90
+  effectiveness: "критическая"
+  height: 2.0
+  weight: 200
+
+- name: "Кикимора"
+  description: "Болотная нежить из гниющих останков"
+  dangerLevel: 6
+  habitats:
+    - "топи Вендена"
+  firstMention: "1221-09-03"
+  immunities:
+    - "удушье"
+  activityTime: "ночь"
+  poisonRecipe: "грибы-поганки (5), глаз василиска (1), роса папоротника (3)"
+  preparationTime: 45
+  effectiveness: "средняя"
+  height: 1.0
+  weight: 15
+
+- name: "Элементаль льда"
+  description: "Дух вечной зимы"
+  dangerLevel: 10
+  habitats:
+    - "ледники Ковира"
+  firstMention: "1105-12-01"
+  immunities:
+    - "заморозка"
+    - "дробление"
+  activityTime: "всегда"
+  poisonRecipe: "сердце огненного элементаля (1), сера (3), расплавленное железо"
+  preparationTime: 120
+  effectiveness: "переменная"
+  height: 5.0
+  weight: 0
+
+- name: "Виверна"
+  description: "Драконоподобное существо с двумя ногами и ядовитым жалом на хвосте"
+  dangerLevel: 8
+  habitats:
+    - "горные утесы"
+    - "развалины замков"
+  firstMention: "1176-04-18"
+  immunities:
+    - "яд"
+    - "падение"
+  activityTime: "день"
+  poisonRecipe: "жало виверны (1), крыло летучей мыши (2), эссенция полыни"
+  preparationTime: 75
+  effectiveness: "высокая"
+  height: 3.2
+  weight: 400
+
+- name: "Куролиск"
+  description: "Гигантский ящер с каменящим взглядом"
+  dangerLevel: 9
+  habitats:
+    - "подземелья"
+    - "древние руины"
+  firstMention: "1145-08-29"
+  immunities:
+    - "окаменение"
+    - "яд"
+  activityTime: "ночь"
+  poisonRecipe: "чешуя куролиска (3), серебряное зеркало (1), ртуть"
+  preparationTime: 90
+  effectiveness: "критическая"
+  height: 2.8
+  weight: 350
+
+- name: "Грифон"
+  description: "Гибрид льва и орла, свирепый хищник"
+  dangerLevel: 8
+  habitats:
+    - "горные вершины"
+    - "равнины"
+  firstMention: "1165-05-30"
+  immunities:
+    - "падение"
+  activityTime: "день"
+  poisonRecipe: "коготь грифона (2), перо грифона (1), корень мандрагоры"
+  preparationTime: 80
+  effectiveness: "высокая"
+  height: 2.3
+  weight: 300
+
+- name: "Допплер"
+  description: "Существо, способное принимать облик любого человека"
+  dangerLevel: 4
+  habitats:
+    - "города"
+    - "деревни"
+  firstMention: "1213-05-22"
+  immunities:
+    - "проклятия"
+  activityTime: "всегда"
+  poisonRecipe: "волосы допплера (1), серебряная пыль (2), эссенция истины"
+  preparationTime: 50
+  effectiveness: "умеренная"
+  height: 1.75
+  weight: 75
+
+- name: "Волколак"
+  description: "Оборотень, принимающий форму волка"
+  dangerLevel: 7
+  habitats:
+    - "леса"
+    - "деревни во время полнолуния"
+  firstMention: "1182-11-12"
+  immunities:
+    - "обычное оружие"
+  activityTime: "полнолуние"
+  poisonRecipe: "серебряная пуля (1), волчья ягода (3), лунный свет"
+  preparationTime: 65
+  effectiveness: "высокая"
+  height: 2.1
+  weight: 120
